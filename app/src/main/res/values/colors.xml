@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#222222</color>
+    <color name="colorPrimaryDark">#7bb974</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="ColorTotalconfirmed">#e60000</color>
+    <color name="ColorTotalDeath">#999999</color>
+    <color name="ColorTotalRceovered">#7bb974</color>
+    <color name="custombluebackground">	#FF6347</color>
+
+    <color name="gradianstart">#00d3ad</color>
+    <color name="gradienend">#008ca8</color>
+    <color name="gradientmiddle">#00b4c5</color>
+
+
+    <color name="primary_color">#FF6347</color>
+    <color name="secondary_color">#7bb974</color>
+
+
+</resources>

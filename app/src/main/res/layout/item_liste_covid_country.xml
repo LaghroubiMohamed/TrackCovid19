@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginTop="8dp"
+    android:layout_marginStart="2dp"
+    android:layout_marginEnd="2dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/item_liste_covid_country_style"
+        android:gravity="center_vertical">
+
+
+        <TextView
+            android:id="@+id/tvTotalCases"
+            style="@style/LabelFontTStyle"
+            android:layout_width="111dp"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:textColor="@color/ColorTotalconfirmed"
+            android:textSize="20sp"
+            tools:text="0000000" />
+
+        <TextView
+            android:id="@+id/tvCountryName"
+            style="@style/LabelFontTStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_toRightOf="@id/tvTotalCases"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            tools:text="China" />
+
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="8dp"
+
+            android:src="@drawable/go_to_see_detail" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
+
+

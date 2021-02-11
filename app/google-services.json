@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180101110979",
+    "firebase_url": "https://covidtrack-c76aa.firebaseio.com",
+    "project_id": "covidtrack-c76aa",
+    "storage_bucket": "covidtrack-c76aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180101110979:android:66b7e670b95a81f285d676",
+        "android_client_info": {
+          "package_name": "med.com.test.trackcovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180101110979-1ti68e6gvbha0n8dgkl6ihucb9vmt8lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5luAd3RzqJLNOa2YiMPNi8pA4LmxJBaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180101110979-1ti68e6gvbha0n8dgkl6ihucb9vmt8lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
