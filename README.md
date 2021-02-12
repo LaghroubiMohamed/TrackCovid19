@@ -5,7 +5,6 @@ this app was made during the Quarantine 😷😷✌️
 
 ### Plant App Final UI
 
-![App UI](images/spash.jpg) ![App UI](images/home.jpg)
-![App UI](images/countries.jpg)
-![App UI](images/detail.jpg)
+![App UI](images/home.jpg) 
+![App UI](images/details.jpg)
 
